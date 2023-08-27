@@ -1,4 +1,4 @@
-module google.golang.org/protobuf/protoc-gen-nitro-go
+module google.golang.org/protobuf/cmd/protoc-gen-nitro-go
 
 go 1.21
 
